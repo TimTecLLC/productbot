@@ -1,0 +1,41 @@
+[
+  {
+    "TimTec_ID": "ST091907",
+    "SMILES": "CCOC(=O)C1(N=C(OC(=N1)C1=CN=CC=C1)N(C)C)C(F)(F)F",
+    "IUPAC": "ethyl 2-(dimethylamino)-6-(pyridin-3-yl)-4-(trifluoromethyl)-1,3,5-oxadiazine-4-carboxylate",
+    "Brutto-formula": "C14H15F3N4O3",
+    "Molecular weight": 344.293457,
+    "Amount/mg": 1.0,
+    "Purity %": "0.9",
+    "Price_1mg": "120",
+    "Price_2mg": "request availability and price",
+    "Price_5mg": "request availability and price",
+    "Price_10mg": "request availability and price",
+    "Price_15mg": "request availability and price",
+    "Price_20mg": "request availability and price",
+    "Price_30mg": "request availability and price",
+    "Price_50mg": "request availability and price",
+    "Lead Time": "1 business day",
+    "Vendor Name": "www.timtec.org",
+    "In Stock Tampa, FL": "Yes"
+  },
+  {
+    "TimTec_ID": "ST000099",
+    "SMILES": "CCO",
+    "IUPAC": "ethanol <img src=x onerror=alert(1)>",
+    "Brutto-formula": "C2H6O",
+    "Molecular weight": 46.07,
+    "Amount/mg": 10,
+    "Purity %": "98",
+    "Price_1mg": "30",
+    "Price_2mg": "40",
+    "Price_5mg": "50",
+    "Price_10mg": "80",
+    "Price_15mg": "150",
+    "Price_20mg": "220",
+    "Price_30mg": "250",
+    "Price_50mg": "280",
+    "Lead Time": "1 business day",
+    "In Stock Tampa, FL": "Yes"
+  }
+]
